@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "airy-legacy-299310",
+  "private_key_id": "fd4e291b244f6090fee3a73fabed286ee7a8bf7a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgMub+bZ5hG21F\nEamOPDJ00ty4VTVF62ZjXPBJg7AiJIyWIX2ektj33y6glSqaQBzX4fQgbKJaL8SI\nAch32HJxFFLHF785Mmuypsaf65HBPZUiEZnu21XxidwibbMYy7qwVk767HoA3krR\n9hY07HFMYrfWEbMv5PwrUcElaoc7ZWhcmBLUkz73sMoTqD09ncNRMJLx0y9f9eE8\ngsoVBKxaunHGDig6j4Wid9JX7W2ouybUltKkJ8bayXNOrmHaGWKMNVkR17KybVJH\nUcKpf9unE3wAallP1nRYzUr9FIV6rTBJV5/VHqG3Vj+ExACxMNZ8ZxxwUuGAxyvp\nz19h8mAdAgMBAAECggEACxnaICzzU6GVBn96YsWORgSO0z281opyVmcqqqkvlnEy\n2NgtrSVeQt+1IlRgeKTGCNZyTQyz+T02QPm9oFmCSSEVfDAr0rwxYvYpDZAPdn8D\nHF28vnvzxHLsCHRgEtE7nDGZ1YjR/asED2Nc9B/k+EBHE/1qXuu6pLZ2ltCwg3tJ\nL1pNfNVbmtyhAW7gh1b5uzwVKk7ScNJ5ityCV0dWMalzIDNdJCBpY1BYIEtwwgKO\nD/m3w4xAzg3iU+6PaQIBr2y3pP8id6VHmfFAXRmUggQbRYQRpBOPKRqEdeAOGiMR\nFoC1W0hsUY/tG1d/L9zwtJNmI0tIgA9t246gEe+pwQKBgQD78FtX8Uz3ZQub5tpM\nTsNtXO1Vnt2T3LbbcWlzFfGbiD8YSoi+gkfRXXcWeZWa5JBMT0RCvqzga+Ngp05U\nvdq3iW2F5fdKaJfv/8/nqr/x/sUflZToPyfTmI4AMjNb7s4uVB3viGW5YfbY09y/\nQUCBCgxhusHIYkvWdOPEEFjbEQKBgQDj0BMCbkq95DMdcgAyjYp+K/ldy9IgZHxK\nt5vjR9ZIXH1Wq4biiqNBbS3nSW6KJsGHaDqtxmVVzW8nkwe+4or6vDh5pzM0thdl\nVqp1wDGgAWds72wIDOEtmOf+odDVbxAPUwrWuFixRN1+kuCWS49pSVK0gEhMXvDj\nJTPmYNi8TQKBgAgbgwUAeeaYNNhuhGXiPv28+NJBi4Xfm27SZn9SnHTR3J3ugBoJ\nXUBKjrOFdCAI7O/XuS2grzWFo0qP98BYX7p6TLD7ZorZdNI/XDRrVUP3W+aZTLJw\nndp8VU2CUA7MT4xEHrZ/oC5oDaaKotbwxZ+hcCaQ+P121FPxbQb5M7LRAoGBAJD0\n5DOmxE5B9zhkQrXoFFimWH0TZTgRWHkejcW3/yR6HZLZf/GEb88AzrWdpwWnFXu4\nmaXbWL2ZA4J17vbKJc7Xl0PpXQ7MUuS7mallSu5aFlpdmishLuMZqXz/r+cvTVPC\n7mGkWWMqw5l3kgpwN+exrTuHaPmXa8XM9VJBC4f9AoGAYunCj9pXqYoZYF5/hNAq\n0TtxBY8pkuFIFujvfOdmKSjHIMUD6dzxFY8V/OgJWWK85O/etF2D0dhFajNuDdGq\nboZZEWuxLGggsrCFzBMAGxbJfTbxIhOZASaNAS3hdtVIazzCaV1CmEjNquzdqEF5\nms3ioIOQ4nIMMNw4WuQCgxs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sadawdada@airy-legacy-299310.iam.gserviceaccount.com",
+  "client_id": "117016608783477863573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sadawdada%40airy-legacy-299310.iam.gserviceaccount.com"
+}
